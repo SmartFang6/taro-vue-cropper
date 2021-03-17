@@ -20,7 +20,7 @@
     </view>
 </template>
 
->  import imgCropper from '@/components/taro-vue-img-cropper/taro-vue-img-cropper.vue';
+ import imgCropper from '@/components/taro-vue-img-cropper/taro-vue-img-cropper.vue';
     export default {
         components:{
             imgCropper
